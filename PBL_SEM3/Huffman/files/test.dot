@@ -1,0 +1,8 @@
+digraph g {
+ "\n5" -> "\n2\n A" [color=red, label=0]
+ "\n5" -> "\n3" [color=blue, label=1]
+ "\n3" -> "\n1\n H" [color=red, label=0]
+ "\n3" -> "\n2" [color=blue, label=1]
+ "\n2" -> "\n1\n S" [color=red, label=0]
+ "\n2" -> "\n1\n K" [color=blue, label=1]
+}
